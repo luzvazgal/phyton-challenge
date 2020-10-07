@@ -1,7 +1,7 @@
 import csv
 
 
-pyPoll_input = "Resources/election_data.csv"
+pyPoll_input = "./Resources/election_data.csv"
 pyPoll_output = "analysis/pyPoll_Output.txt"
 totalVotes = 0
 candidates_Dict = {}
